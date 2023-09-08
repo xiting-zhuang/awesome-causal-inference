@@ -82,6 +82,10 @@ The following is a list of free courses in Causal Inference, sorted by format an
 
 ## Slides
 
+- [Causal Inference with Applications](https://imai.fas.harvard.edu/teaching/cause.html)
+  - **Author**: Kosuke Imai (Harvard University)
+  - **Year**: 2019
+  
 - [Causal Inference and Machine Learning](https://apoorvalal.github.io/talks/2021-GraduateSequenceTeaching/)
   - **Author**: Jens Hainmueller (Stanford University)
   - **Year**: 2023
